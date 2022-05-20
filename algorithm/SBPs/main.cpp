@@ -1,3 +1,5 @@
+/* This code is a modified version of Boyar's original implementation of the SLP heuristic*/
+/*https://github.com/siweisun/involutory_mds/blob/b9c640f29d684cddc8095bafab22a131b0a6fd47/Code_for_BoyarSLP/boyarSLP.cpp*/
 #include <math.h>
 #include <ctype.h>
 #include <fstream>
