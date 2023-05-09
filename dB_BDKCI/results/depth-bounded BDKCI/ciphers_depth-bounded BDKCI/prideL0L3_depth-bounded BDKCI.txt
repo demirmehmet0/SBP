@@ -1,0 +1,130 @@
+L0
+
+
+SLP Heuristic XorCount: 16, Depth: 3
+, XOR2: 0, XOR3: 16
+SLP Heuristic XorCost ASIC1: 52
+SLP Heuristic XorCost ASIC2: 59.44
+SLP Heuristic XorCost ASIC3: 67.2
+SLP Heuristic XorCost ASIC4: 74.56
+Timestamp: 25-02-2023 12-06-07
+y13 = x05 + x09 + x01
+y02 = x14 + x06 + x10
+y06 = x14 + x10 + x02
+y12 = x08 + x04 + x00
+y15 = x07 + x03 + x11
+y04 = x08 + x00 + x12
+y07 = x07 + x15 + y15
+y10 = x14 + x06 + x02
+y08 = x08 + x04 + y04
+y05 = x05 + x13 + y13
+y11 = x07 + x03 + x15
+y09 = x05 + x09 + y05
+y00 = x08 + x04 + x12
+y01 = x05 + x09 + x13
+y14 = x14 + x06 + y06
+y03 = x07 + x03 + y07
+
+
+
+
+---------------
+
+
+L1
+
+
+SLP Heuristic XorCount: 16, Depth: 2
+, XOR2: 0, XOR3: 16
+SLP Heuristic XorCost ASIC1: 52
+SLP Heuristic XorCost ASIC2: 59.44
+SLP Heuristic XorCost ASIC3: 67.2
+SLP Heuristic XorCost ASIC4: 74.56
+Timestamp: 25-02-2023 12-06-15
+y07 = x00 + x07 + x10
+y05 = x06 + x08 + x05
+y14 = x06 + x09 + x10
+y12 = x08 + x04 + x15
+y15 = x00 + x11 + y07
+y06 = x00 + y07 + y14
+y11 = x14 + x03 + x15
+y04 = x06 + y05 + y12
+y00 = x00 + x01 + x11
+y13 = x06 + x09 + y05
+y03 = x14 + x03 + x04
+y08 = x00 + x11 + x12
+y02 = x13 + x03 + x02
+y09 = x13 + x01 + x12
+y01 = x13 + x02 + y09
+y10 = x14 + x13 + x02
+
+
+
+
+-------------------
+
+
+L2
+
+
+SLP Heuristic XorCount: 16, Depth: 2
+, XOR2: 0, XOR3: 16
+SLP Heuristic XorCost ASIC1: 52
+SLP Heuristic XorCost ASIC2: 59.44
+SLP Heuristic XorCost ASIC3: 67.2
+SLP Heuristic XorCost ASIC4: 74.56
+Timestamp: 25-02-2023 12-06-22
+y13 = x01 + x12 + x13
+y14 = x02 + x13 + x14
+y11 = x11 + x10 + x07
+y02 = x09 + x07 + x06
+y04 = x01 + x11 + x00
+y00 = x04 + x15 + x05
+y15 = x03 + x15 + x14
+y07 = x04 + x03 + x14
+y06 = x04 + y14 + y07
+y05 = x01 + x02 + x12
+y01 = x08 + x05 + x06
+y08 = x04 + x15 + x08
+y10 = x11 + y11 + y02
+y03 = x01 + y11 + y04
+y09 = x09 + x08 + x05
+y12 = x01 + x12 + y04
+
+
+
+
+
+
+
+--------------------
+
+
+
+L3
+
+
+
+SLP Heuristic XorCount: 16, Depth: 3
+, XOR2: 0, XOR3: 16
+SLP Heuristic XorCost ASIC1: 52
+SLP Heuristic XorCost ASIC2: 59.44
+SLP Heuristic XorCost ASIC3: 67.2
+SLP Heuristic XorCost ASIC4: 74.56
+Timestamp: 25-02-2023 12-06-27
+y00 = x00 + x12 + x04
+y08 = x00 + x08 + y00
+y06 = x02 + x06 + x10
+y01 = x05 + x01 + x13
+y15 = x15 + x11 + x03
+y10 = x02 + x14 + y06
+y14 = x02 + x14 + x10
+y07 = x15 + x07 + y15
+y02 = x02 + x14 + x06
+y03 = x15 + x07 + x03
+y12 = x00 + x12 + x08
+y13 = x09 + x05 + y01
+y04 = x00 + x12 + y08
+y11 = x15 + x07 + x11
+y09 = x09 + x05 + x13
+y05 = x09 + x05 + x01

@@ -1,0 +1,27 @@
+SLP Heuristic XorCount: 20, Depth: 4
+, XOR2: 1, XOR3: 0, XOR4: 19
+SLP Heuristic XorCost ASIC1: 97
+SLP Heuristic XorCost ASIC2: 106.481
+SLP Heuristic XorCost ASIC3: 121.25
+SLP Heuristic XorCost ASIC4: 117.14
+Timestamp: 20-02-2023 21-38-54
+t00 = x04 + x01 + x05 + x00
+y15 = x15 + x05 + x09 + t00
+y12 = x02 + x10 + x12 + t00
+y08 = x14 + x08 + x06 + t00
+y11 = x01 + x11 + x13 + t00
+t05 = x08 + x09 + x13 + x12
+y00 = x14 + x06 + x00 + t05
+y04 = x04 + x02 + x10 + t05
+y03 = x05 + x03 + x09 + t05
+y07 = x01 + x07 + x13 + t05
+t10 = x08 + x07 + x03 + x00
+y02 = x02 + y11 + y03 + t10
+y10 = x10 + y15 + y07 + t10
+y06 = x15 + x07 + x06 + t10
+y01 = x01 + x10 + t10 + y06
+y14 = x14 + x11 + x03 + t10
+y05 = x02 + x05 + t10 + y14
+t17 = y00 + y04
+y13 = x11 + y11 + y05 + t17
+y09 = x15 + y15 + y01 + t17

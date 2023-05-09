@@ -1,0 +1,39 @@
+SLP Heuristic XorCount: 32, Depth: 2
+, XOR2: 0, XOR3: 32
+SLP Heuristic XorCost ASIC1: 104
+SLP Heuristic XorCost ASIC2: 118.88
+SLP Heuristic XorCost ASIC3: 134.4
+SLP Heuristic XorCost ASIC4: 149.12
+Timestamp: 25-02-2023 12-06-51
+y00 = x03 + x17 + x18 (1) 
+y01 = x06 + x15 + x16 (1) 
+y02 = x05 + x10 + x24 (1) 
+y03 = x01 + x06 + x14 (1) 
+y04 = x07 + x13 + x30 (1) 
+y05 = x12 + x16 + x28 (1) 
+y06 = x00 + x12 + x29 (1) 
+y07 = x07 + x09 + x30 (1) 
+y08 = x05 + x21 + y02 (2) 
+y09 = x03 + x04 + x20 (1) 
+y10 = x14 + x25 + x26 (1) 
+y11 = x00 + y05 + y06 (2) 
+y12 = x00 + x27 + y06 (2) 
+y13 = x05 + x21 + x26 (1) 
+y14 = x11 + x17 + x31 (1) 
+y15 = x00 + x10 + x27 (1) 
+y16 = x03 + x04 + y00 (2) 
+y17 = x09 + x13 + x22 (1) 
+y18 = x02 + x03 + x04 (1) 
+y19 = x19 + x22 + x31 (1) 
+y20 = x02 + x08 + x20 (1) 
+y21 = x08 + x23 + x30 (1) 
+y22 = x02 + x20 + x23 (1) 
+y23 = x11 + x19 + x22 (1) 
+y24 = x00 + x24 + x27 (1) 
+y25 = x01 + x14 + x15 (1) 
+y26 = x05 + x21 + x25 (1) 
+y27 = x01 + x14 + y10 (2) 
+y28 = x09 + x13 + x19 (1) 
+y29 = x06 + x15 + x28 (1) 
+y30 = x03 + y00 + y14 (2) 
+y31 = x07 + x08 + x23 (1) 

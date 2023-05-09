@@ -1,0 +1,123 @@
+M0
+
+SLP Heuristic XorCount: 49, Depth: 9
+, XOR2: 9, XOR3: 10, XOR4: 30
+SLP Heuristic XorCost ASIC1: 200.5
+SLP Heuristic XorCost ASIC2: 219.979
+SLP Heuristic XorCost ASIC3: 252
+SLP Heuristic XorCost ASIC4: 256.27
+Timestamp: 22-02-2023 10-39-49
+t00 = x14 + x07 + x23 + x06
+y24 = x24 + t00
+t02 = x30 + x07 + x23 + x22
+y08 = x08 + t02
+t04 = x15 + x07
+y25 = x25 + x00 + x16 + t04
+y17 = x08 + x17 + x24 + t04
+t07 = x23 + x31
+y00 = x00 + t02 + t04 + t07
+y16 = x16 + t00 + t04 + t07
+y01 = x08 + x01 + x24 + t07
+y09 = x09 + x00 + x16 + t07
+t12 = x18 + x09 + t04 + y25
+y18 = x08 + y16 + t12
+t14 = x08 + x10 + y24 + y01
+y19 = x19 + x26 + x09 + t14
+y10 = y08 + y17 + y16 + t14
+t17 = x26 + x17 + t02 + t04
+y26 = y24 + y00 + y01 + t17
+y03 = x25 + x03 + x10 + t17
+t20 = x03 + x11 + x28 + t04
+y21 = x12 + x21 + t20
+t22 = x02 + x11 + x10 + t00
+y20 = x20 + x27 + t07 + t22
+y28 = x19 + t20 + t22
+t25 = x20 + x05 + x28 + x21
+y05 = y21 + y20 + y28 + t25
+y14 = x14 + t25
+t28 = x18 + x27 + x17 + t17
+y04 = x11 + x04 + t28
+t30 = x05 + x04 + t20
+y12 = y05 + y04 + t30
+y30 = x30 + y21 + t30
+y29 = x21 + x29 + t25 + t30
+t34 = x05 + x13 + x06
+y23 = x30 + x07 + t00 + t34
+y31 = x22 + x31 + t34
+y06 = t30 + y29 + t34
+y07 = t00 + y14 + y23 + y06
+y22 = t02 + y30 + y23 + y07
+y15 = t00 + t02 + t04 + y07
+t41 = x02 + t12
+y02 = x18 + x24 + y00 + t41
+t43 = x22 + y05 + t30 + y22
+y13 = y29 + t43
+t45 = x11 + x17 + t02 + y09
+y11 = t41 + t45
+t47 = x27 + t00 + y25 + t41
+y27 = x01 + t47
+
+-----------------------------
+
+M1
+
+SLP Heuristic XorCount: 53, Depth: 7
+, XOR2: 6, XOR3: 11, XOR4: 36
+SLP Heuristic XorCost ASIC1: 227.75
+SLP Heuristic XorCost ASIC2: 250.751
+SLP Heuristic XorCost ASIC3: 286.2
+SLP Heuristic XorCost ASIC4: 286.88
+Timestamp: 22-02-2023 00-50-17
+t00 = x23 + x07 + x29 + x13
+y16 = x23 + x15 + x16 + t00
+y00 = x07 + x00 + x31 + t00
+t03 = x05 + x15 + x31 + x21
+y08 = x23 + x08 + x15 + t03
+y24 = x24 + x07 + x31 + t03
+t06 = x22 + x24 + x06 + y24
+y09 = x09 + x16 + y24 + t06
+t08 = x30 + x16 + x14 + y16
+y01 = x24 + x01 + y16 + t08
+t10 = x23 + x01 + x09 + x31
+y18 = x18 + t00 + t10
+y26 = x26 + t03 + t10
+t13 = x25 + x07 + x17 + x15
+y10 = x10 + t03 + t13
+y02 = x02 + t00 + t13
+t16 = x27 + x11 + x15 + x31
+y06 = x06 + x29 + x21 + t16
+y22 = x22 + x05 + x13 + t16
+t19 = x23 + x07 + x19 + x03
+y30 = x05 + x30 + x13 + t19
+y14 = x24 + y24 + t08 + y30
+t22 = x25 + x27 + x09 + x03
+y04 = x04 + t08 + t19 + t22
+y20 = x20 + t08 + t16 + t22
+t25 = t06 + t10 + t13 + t22
+y28 = x28 + t16 + t25
+y12 = x12 + t19 + t25
+t28 = t10 + y02 + y30 + y14
+t29 = x30 + x26 + x14 + x10
+t30 = y08 + y30 + y14
+y17 = x17 + y00 + t30
+t32 = y00 + y06 + y22
+y25 = x25 + y08 + t32
+t34 = x02 + x00 + x10 + t06
+y27 = x27 + x16 + t34
+t36 = x18 + t28
+y29 = x13 + y04 + y12 + t36
+y13 = x29 + y20 + y28 + t36
+t39 = y22 + y30
+y15 = x15 + y04 + y20 + t39
+y07 = x07 + y28 + y12 + t39
+t42 = t03 + t29
+y05 = x20 + x28 + x21 + t42
+y21 = x05 + x04 + x12 + t42
+t45 = x18 + x26
+y03 = x24 + x03 + t30 + t45
+y11 = x11 + x16 + t32 + t45
+t48 = y06 + y14
+y31 = x31 + y04 + y20 + t48
+y23 = x23 + y28 + y12 + t48
+t51 = x24 + t30 + t32 + t34
+y19 = x19 + t51
