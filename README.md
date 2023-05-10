@@ -1,4 +1,5 @@
-# SBP (Superior Boyar-Peralta) dB-BDKCI (depth-bounded version of BDKCI)
+# SBP (Superior Boyar-Peralta) 
+# dB-BDKCI (depth-bounded version of BDKCI)
 
 SBP heuristic algorithm provides global optimization solutions, especially for extracting low-latency circuits.
 
