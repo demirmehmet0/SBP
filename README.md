@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/492541524.svg)](https://zenodo.org/doi/10.5281/zenodo.10080461)
+[![DOI](https://zenodo.org/badge/492541524.svg)](https://zenodo.org/doi/10.5281/zenodo.10080462)
 
 # SBP (Superior Boyar-Peralta) 
 # dB-BDKCI (depth-bounded version of BDKCI)
