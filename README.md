@@ -3,10 +3,13 @@
 
 This repository contains the accompanying codes for paper **Optimizing implementations of linear layers using two and higher input XOR gates** (https://peerj.com/articles/cs-1820/#).
 
+
 ```
-Cite this as
+**Cite this as**
 
 Kurt Pehlivanoğlu M, Demir MA. 2024. Optimizing implementations of linear layers using two and higher input XOR gates. PeerJ Computer Science 10:e1820 https://doi.org/10.7717/peerj-cs.1820
+
+
 ```
 
 
