@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/492541524.svg)](https://zenodo.org/doi/10.5281/zenodo.10080462)
 
 
-This repository contains the accompanying codes for paper # "Optimizing implementations of linear layers using two and higher input XOR gates" (https://peerj.com/articles/cs-1820/#).
+This repository contains the accompanying codes for paper # Optimizing implementations of linear layers using two and higher input XOR gates (https://peerj.com/articles/cs-1820/#).
 
 
 
